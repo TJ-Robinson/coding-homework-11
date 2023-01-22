@@ -1,1 +1,56 @@
 
+h1{
+margin: auto;
+background-color: antiquewhite;
+}
+
+h2 {
+    font-size: 25px;
+    border: 3px solid;
+    margin-top: 20px;
+    width: 200px;
+}
+
+h3 {
+    font-size: 25px;
+    border: 3px solid;
+    margin-top: 20px;
+    width: 200px;
+}
+
+h4 {
+    font-size: 25px;
+    border: 3px solid;
+    margin-top: 20px;
+    width: 200px;
+}
+
+h5 {
+    font-size: 25px;
+    border: 3px solid;
+    margin-top: 20px;
+    width: 200px;
+}
+
+h6 {
+    font-size: 25px;
+    border: 3px solid;
+    margin-top: 25px;
+    width: 200px;
+}
+
+.div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+}
+
+div {
+    width: 600px;
+    height: 100px;
+    padding: 200px;
+    border: 3px solid #283593;
+    box-sizing: border-box;
+    margin-left: 250px;
+    margin-top: -350px;
+ }
